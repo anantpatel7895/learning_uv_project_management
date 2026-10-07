@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# practice area for exercises
+playground/*
+!playground/.gitkeep
